@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menu
+  m_TableCollectionNameGuidString: e8725b2f8bb4f2542841d06bfce08d41
+  m_Entries:
+  - m_Id: 431719256064
+    m_Key: ResumeGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 634446745600
+    m_Key: GoToMainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506723565568
+    m_Key: GameSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1960912162816
+    m_Key: Achievements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2073424367616
+    m_Key: QuitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4915920965632
+    m_Key: SettingsTitleText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9808392032256
+    m_Key: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10012319092736
+    m_Key: Screen Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10117025697792
+    m_Key: Quality Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10283778641920
+    m_Key: Anti-Aliasing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10372689498112
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322576907309056
+    m_Key: loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 339804696416256
+    m_Key: Apply
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8064354216136671234
+  references:
+    version: 2
+    RefIds:
+    - rid: 8064354216136671234
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1732148327631
