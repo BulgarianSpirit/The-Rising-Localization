@@ -51,10 +51,6 @@ MonoBehaviour:
     m_Key: Quality Level
     m_Metadata:
       m_Items: []
-  - m_Id: 10283778641920
-    m_Key: Anti-Aliasing
-    m_Metadata:
-      m_Items: []
   - m_Id: 10372689498112
     m_Key: Language
     m_Metadata:
