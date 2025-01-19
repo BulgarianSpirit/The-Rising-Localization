@@ -19,7 +19,7 @@ MonoBehaviour:
   m_LocaleName: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439 (ru)"
   m_CustomFormatCultureCode: 
   m_UseCustomFormatter: 0
-  m_SortOrder: 10000
+  m_SortOrder: 2
   references:
     version: 2
     RefIds: []

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: StringTable_ru
+  m_Name: StringTable_de-a
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: ru
+    m_Code: de-a
   m_SharedData: {fileID: 11400000, guid: 93f71424ca94c9742bfd2632c3d880d3, type: 2}
   m_Metadata:
     m_Items: []
@@ -23,10 +23,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 505920688128
-    m_Localized: "\u0414\u043B\u044F \u043D\u0430\u0447\u0430\u043B\u0430 \u043F\u0435\u0440\u0435\u0442\u0430\u0449\u0438\u0442\u0435
-      \u0437\u043D\u0430\u0447\u043E\u043A \u0432\u044B\u0431\u043E\u0440\u0430 \u043D\u0430
-      \u0433\u043E\u0440\u043E\u0434, \u0438\u0437 \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E
-      \u0432\u044B \u0445\u043E\u0442\u0438\u0442\u0435 \u043D\u0430\u0447\u0430\u0442\u044C."
+    m_Localized: "Ziehen Sie zum Starten das Auswahlsymbol \xFCber die Stadt, von
+      der aus Sie starten m\xF6chten."
     m_Metadata:
       m_Items: []
   references:

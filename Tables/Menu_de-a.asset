@@ -10,62 +10,60 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Menu_ru
+  m_Name: Menu_de-a
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: ru
+    m_Code: de-a
   m_SharedData: {fileID: 11400000, guid: e8725b2f8bb4f2542841d06bfce08d41, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 634446745600
-    m_Localized: "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u0432 \u0433\u043B\u0430\u0432\u043D\u043E\u0435
-      \u043C\u0435\u043D\u044E"
+  - m_Id: 431719256064
+    m_Localized: Spiel fortsetzen
     m_Metadata:
       m_Items: []
-  - m_Id: 431719256064
-    m_Localized: "\u0412\u043E\u0437\u043E\u0431\u043D\u043E\u0432\u0438\u0442\u044C
-      \u0438\u0433\u0440\u0443"
+  - m_Id: 634446745600
+    m_Localized: "Zur\xFCck zum Hauptmen\xFC"
     m_Metadata:
       m_Items: []
   - m_Id: 1506723565568
-    m_Localized: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0438\u0433\u0440\u044B"
+    m_Localized: Spieleinstellungen
     m_Metadata:
       m_Items: []
   - m_Id: 1960912162816
-    m_Localized: "\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F"
+    m_Localized: Erfolge
     m_Metadata:
       m_Items: []
   - m_Id: 2073424367616
-    m_Localized: "\u0412\u044B\u0439\u0442\u0438 \u0438\u0437 \u0438\u0433\u0440\u044B"
+    m_Localized: Spiel beenden
     m_Metadata:
       m_Items: []
   - m_Id: 4915920965632
-    m_Localized: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+    m_Localized: Einstellungen
     m_Metadata:
       m_Items: []
   - m_Id: 9808392032256
-    m_Localized: "\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0435"
+    m_Localized: "Aufl\xF6sung"
     m_Metadata:
       m_Items: []
   - m_Id: 10012319092736
-    m_Localized: "\u0420\u0435\u0436\u0438\u043C \u044D\u043A\u0440\u0430\u043D\u0430"
+    m_Localized: Bildschirmmodus
     m_Metadata:
       m_Items: []
   - m_Id: 10117025697792
-    m_Localized: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430"
+    m_Localized: "Qualit\xE4tsniveau"
     m_Metadata:
       m_Items: []
   - m_Id: 10372689498112
-    m_Localized: "\u042F\u0437\u044B\u043A"
+    m_Localized: Sprache
     m_Metadata:
       m_Items: []
   - m_Id: 322576907309056
-    m_Localized: "\u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0430..."
+    m_Localized: Laden...
     m_Metadata:
       m_Items: []
   - m_Id: 339804696416256
-    m_Localized: "\u041F\u0440\u0438\u043C\u0435\u043D\u044F\u0442\u044C"
+    m_Localized: Anwenden
     m_Metadata:
       m_Items: []
   references:
