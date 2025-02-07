@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: cities Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: cities
+  m_TableCollectionNameGuidString: 1acb71d7c75bbfc4f8e6287ce6c42b79
+  m_Entries:
+  - m_Id: 88336662528
+    m_Key: Adrianople
+    m_Metadata:
+      m_Items: []
+  - m_Id: 88458297344
+    m_Key: Agrinio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 119944937472
+    m_Key: Alexandrupoli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 152127832064
+    m_Key: Athens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153952354304
+    m_Key: Belgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157324574720
+    m_Key: Bitola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158176018432
+    m_Key: Bucharest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159534972928
+    m_Key: Burgas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 198999179264
+    m_Key: Cacak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312447365120
+    m_Key: Chalkida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336640
+    m_Key: Constanta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336641
+    m_Key: Constantinople
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336642
+    m_Key: Craiova
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336643
+    m_Key: Dobrich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336644
+    m_Key: Drobeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336645
+    m_Key: Fier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336646
+    m_Key: Filipopol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336647
+    m_Key: Galati
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336648
+    m_Key: Haskovo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336649
+    m_Key: Ioannia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336650
+    m_Key: Kalamata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336651
+    m_Key: Katerina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336652
+    m_Key: Katerini
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336653
+    m_Key: Kavala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336654
+    m_Key: Kirkareli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336655
+    m_Key: Korce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336656
+    m_Key: Kragujevac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336657
+    m_Key: Krusevac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336658
+    m_Key: Kyustendil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336659
+    m_Key: Luleburgaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336661
+    m_Key: Nikopol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336662
+    m_Key: Nis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336663
+    m_Key: Ohrid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336664
+    m_Key: Pernik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336665
+    m_Key: Podgorica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336666
+    m_Key: Pristina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336667
+    m_Key: Prizren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336668
+    m_Key: Ruse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336669
+    m_Key: Serres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336670
+    m_Key: Shumen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336671
+    m_Key: Silistria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336672
+    m_Key: Skoder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336673
+    m_Key: Skopje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336674
+    m_Key: Slatina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336675
+    m_Key: Sliven
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336676
+    m_Key: Sofia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336677
+    m_Key: Stara Zagora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336678
+    m_Key: Tekirdag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336679
+    m_Key: Tetovo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336680
+    m_Key: Thessaloniki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336681
+    m_Key: Tirana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336682
+    m_Key: Turnovo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336683
+    m_Key: Varna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336684
+    m_Key: Vidin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336685
+    m_Key: Volos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17312468336686
+    m_Key: Xanthi
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6947151149160202240
+  references:
+    version: 2
+    RefIds:
+    - rid: 6947151149160202240
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1738963497758
