@@ -9,68 +9,67 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: Menu Shared Data
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_de-a
   m_EditorClassIdentifier: 
-  m_TableCollectionName: Menu
-  m_TableCollectionNameGuidString: e8725b2f8bb4f2542841d06bfce08d41
-  m_Entries:
+  m_LocaleId:
+    m_Code: de-a
+  m_SharedData: {fileID: 11400000, guid: e8725b2f8bb4f2542841d06bfce08d41, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
   - m_Id: 431719256064
-    m_Key: ResumeGame
+    m_Localized: Spiel fortsetzen
     m_Metadata:
       m_Items: []
   - m_Id: 634446745600
-    m_Key: GoToMainMenu
+    m_Localized: "Zur\xFCck zum Hauptmen\xFC"
     m_Metadata:
       m_Items: []
   - m_Id: 1506723565568
-    m_Key: GameSettings
+    m_Localized: Spieleinstellungen
     m_Metadata:
       m_Items: []
   - m_Id: 1960912162816
-    m_Key: Achievements
+    m_Localized: Erfolge
     m_Metadata:
       m_Items: []
   - m_Id: 2073424367616
-    m_Key: QuitGame
+    m_Localized: Spiel beenden
     m_Metadata:
       m_Items: []
   - m_Id: 4915920965632
-    m_Key: SettingsTitleText
+    m_Localized: Einstellungen
     m_Metadata:
       m_Items: []
   - m_Id: 9808392032256
-    m_Key: Resolution
+    m_Localized: "Aufl\xF6sung"
     m_Metadata:
       m_Items: []
   - m_Id: 10012319092736
-    m_Key: Screen Mode
+    m_Localized: Bildschirmmodus
     m_Metadata:
       m_Items: []
   - m_Id: 10117025697792
-    m_Key: Quality Level
+    m_Localized: "Qualit\xE4tsniveau"
     m_Metadata:
       m_Items: []
   - m_Id: 10372689498112
-    m_Key: Language
+    m_Localized: Sprache
     m_Metadata:
       m_Items: []
   - m_Id: 322576907309056
-    m_Key: loading...
+    m_Localized: Laden...
     m_Metadata:
       m_Items: []
   - m_Id: 339804696416256
-    m_Key: Apply
+    m_Localized: Anwenden
     m_Metadata:
       m_Items: []
-  m_Metadata:
-    m_Items: []
-  m_KeyGenerator:
-    rid: 8064354216136671234
+  - m_Id: 1076829257728
+    m_Localized: dwa
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds:
-    - rid: 8064354216136671234
-      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
-      data:
-        m_CustomEpoch: 1732148327631
+    RefIds: []

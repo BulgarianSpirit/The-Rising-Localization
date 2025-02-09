@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Menu_ru
+  m_Name: UI_ru
   m_EditorClassIdentifier: 
   m_LocaleId:
     m_Code: ru
@@ -18,14 +18,14 @@ MonoBehaviour:
   m_Metadata:
     m_Items: []
   m_TableData:
-  - m_Id: 634446745600
-    m_Localized: "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u0432 \u0433\u043B\u0430\u0432\u043D\u043E\u0435
-      \u043C\u0435\u043D\u044E"
-    m_Metadata:
-      m_Items: []
   - m_Id: 431719256064
     m_Localized: "\u0412\u043E\u0437\u043E\u0431\u043D\u043E\u0432\u0438\u0442\u044C
       \u0438\u0433\u0440\u0443"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 634446745600
+    m_Localized: "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u0432 \u0433\u043B\u0430\u0432\u043D\u043E\u0435
+      \u043C\u0435\u043D\u044E"
     m_Metadata:
       m_Items: []
   - m_Id: 1506723565568
@@ -66,6 +66,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 339804696416256
     m_Localized: "\u041F\u0440\u0438\u043C\u0435\u043D\u044F\u0442\u044C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1076829257728
+    m_Localized: dwa
     m_Metadata:
       m_Items: []
   references:

@@ -10,60 +10,68 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
-  m_Name: Menu_de-a
+  m_Name: UI_en
   m_EditorClassIdentifier: 
   m_LocaleId:
-    m_Code: de-a
+    m_Code: en
   m_SharedData: {fileID: 11400000, guid: e8725b2f8bb4f2542841d06bfce08d41, type: 2}
   m_Metadata:
     m_Items: []
   m_TableData:
   - m_Id: 431719256064
-    m_Localized: Spiel fortsetzen
+    m_Localized: Resume Game
     m_Metadata:
       m_Items: []
   - m_Id: 634446745600
-    m_Localized: "Zur\xFCck zum Hauptmen\xFC"
+    m_Localized: Return to main menu
     m_Metadata:
       m_Items: []
   - m_Id: 1506723565568
-    m_Localized: Spieleinstellungen
+    m_Localized: Game Settings
     m_Metadata:
       m_Items: []
   - m_Id: 1960912162816
-    m_Localized: Erfolge
+    m_Localized: Achievements
     m_Metadata:
       m_Items: []
   - m_Id: 2073424367616
-    m_Localized: Spiel beenden
+    m_Localized: Quit Game
     m_Metadata:
       m_Items: []
   - m_Id: 4915920965632
-    m_Localized: Einstellungen
+    m_Localized: Settings
     m_Metadata:
       m_Items: []
   - m_Id: 9808392032256
-    m_Localized: "Aufl\xF6sung"
+    m_Localized: Resolution
     m_Metadata:
       m_Items: []
   - m_Id: 10012319092736
-    m_Localized: Bildschirmmodus
+    m_Localized: Screen Mode
     m_Metadata:
       m_Items: []
   - m_Id: 10117025697792
-    m_Localized: "Qualit\xE4tsniveau"
+    m_Localized: Quality Level
     m_Metadata:
       m_Items: []
   - m_Id: 10372689498112
-    m_Localized: Sprache
+    m_Localized: Language
     m_Metadata:
       m_Items: []
   - m_Id: 322576907309056
-    m_Localized: Laden...
+    m_Localized: Loading...
     m_Metadata:
       m_Items: []
   - m_Id: 339804696416256
-    m_Localized: Anwenden
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29205216792838144
+    m_Localized: Population
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1076829257728
+    m_Localized: dwa
     m_Metadata:
       m_Items: []
   references:
