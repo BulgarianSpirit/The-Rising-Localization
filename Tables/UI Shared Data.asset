@@ -67,8 +67,16 @@ MonoBehaviour:
     m_Key: Population
     m_Metadata:
       m_Items: []
-  - m_Id: 1076829257728
-    m_Key: dwa
+  - m_Id: 16619271520256
+    m_Key: City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16637046980608
+    m_Key: Town
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16644894523392
+    m_Key: Village
     m_Metadata:
       m_Items: []
   m_Metadata:

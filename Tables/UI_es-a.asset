@@ -66,6 +66,22 @@ MonoBehaviour:
     m_Localized: Aplicar
     m_Metadata:
       m_Items: []
+  - m_Id: 29205216792838144
+    m_Localized: "Poblaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16619271520256
+    m_Localized: Ciudad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16637046980608
+    m_Localized: Ciudad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16644894523392
+    m_Localized: Aldea
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

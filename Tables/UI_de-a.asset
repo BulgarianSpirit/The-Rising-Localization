@@ -66,8 +66,20 @@ MonoBehaviour:
     m_Localized: Anwenden
     m_Metadata:
       m_Items: []
-  - m_Id: 1076829257728
-    m_Localized: dwa
+  - m_Id: 29205216792838144
+    m_Localized: "Bev\xF6lkerung"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16619271520256
+    m_Localized: Stadt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16637046980608
+    m_Localized: Stadt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16644894523392
+    m_Localized: Dorf
     m_Metadata:
       m_Items: []
   references:
