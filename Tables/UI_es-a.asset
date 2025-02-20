@@ -82,6 +82,18 @@ MonoBehaviour:
     m_Localized: Aldea
     m_Metadata:
       m_Items: []
+  - m_Id: 4075461121814528
+    m_Localized: Oro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4077495980011520
+    m_Localized: Fecha actual
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4090945699459072
+    m_Localized: TARJETA DE EJEMPLO
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

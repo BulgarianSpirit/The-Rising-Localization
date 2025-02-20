@@ -82,6 +82,18 @@ MonoBehaviour:
     m_Localized: Village
     m_Metadata:
       m_Items: []
+  - m_Id: 4075461121814528
+    m_Localized: Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4077495980011520
+    m_Localized: Current Date
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4090945699459072
+    m_Localized: EXAMPLE CARD
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
