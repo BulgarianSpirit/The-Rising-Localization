@@ -59,7 +59,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 322576907309056
-    m_Localized: Loading...
+    m_Localized: Loading
     m_Metadata:
       m_Items: []
   - m_Id: 339804696416256
@@ -92,6 +92,26 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 4090945699459072
     m_Localized: EXAMPLE CARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6621868195217408
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6590775412817920
+    m_Localized: Manage City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6620318672519168
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6620318701879296
+    m_Localized: Sandbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6621310373756928
+    m_Localized: Presentation
     m_Metadata:
       m_Items: []
   references:

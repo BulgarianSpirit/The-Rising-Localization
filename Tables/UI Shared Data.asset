@@ -23,6 +23,10 @@ MonoBehaviour:
     m_Key: GoToMainMenu
     m_Metadata:
       m_Items: []
+  - m_Id: 6621868195217408
+    m_Key: Options
+    m_Metadata:
+      m_Items: []
   - m_Id: 1506723565568
     m_Key: GameSettings
     m_Metadata:
@@ -89,6 +93,22 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 4090945699459072
     m_Key: EXAMPLE_CARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6590775412817920
+    m_Key: ManageCity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6620318672519168
+    m_Key: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6620318701879296
+    m_Key: Sandbox
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6621310373756928
+    m_Key: Presentation
     m_Metadata:
       m_Items: []
   m_Metadata:
