@@ -59,7 +59,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 322576907309056
-    m_Localized: Laden...
+    m_Localized: Laden
     m_Metadata:
       m_Items: []
   - m_Id: 339804696416256
@@ -92,6 +92,26 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 4090945699459072
     m_Localized: BEISPIELKARTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6621868195217408
+    m_Localized: Optionen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6590775412817920
+    m_Localized: Stadt verwalten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6620318672519168
+    m_Localized: Spielen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6620318701879296
+    m_Localized: Sandkasten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6621310373756928
+    m_Localized: "Pr\xE4sentation"
     m_Metadata:
       m_Items: []
   references:
