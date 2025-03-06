@@ -69,9 +69,9 @@ MonoBehaviour:
         m_CustomTablePostprocessor:
           rid: -2
         m_AsynchronousBehaviour: 0
-        m_UseFallback: 0
+        m_UseFallback: 1
         m_MissingTranslationState: 1
-        m_NoTranslationFoundMessage: No translation found for '{key}' in {table.TableCollectionName}
+        m_NoTranslationFoundMessage: No translation for '{key}' in {table.TableCollectionName}
         m_SmartFormat:
           rid: 8064354214594740230
     - rid: 8064354214594740230

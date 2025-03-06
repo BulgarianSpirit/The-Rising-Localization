@@ -23,6 +23,10 @@ MonoBehaviour:
     m_Key: tutorial_1
     m_Metadata:
       m_Items: []
+  - m_Id: 38320450262433792
+    m_Key: select_a_city_mode
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

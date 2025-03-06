@@ -27,6 +27,10 @@ MonoBehaviour:
       der aus Sie starten m\xF6chten."
     m_Metadata:
       m_Items: []
+  - m_Id: 38320450262433792
+    m_Localized: auf eine Stadt, um deinen Spieler dorthin zu bewegen.
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
