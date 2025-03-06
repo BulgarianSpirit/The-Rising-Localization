@@ -111,6 +111,14 @@ MonoBehaviour:
     m_Key: Presentation
     m_Metadata:
       m_Items: []
+  - m_Id: 9164087498276864
+    m_Key: Detailed_History
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9164087531831296
+    m_Key: Move Player
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

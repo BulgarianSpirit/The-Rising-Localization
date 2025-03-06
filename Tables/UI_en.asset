@@ -114,6 +114,14 @@ MonoBehaviour:
     m_Localized: Presentation
     m_Metadata:
       m_Items: []
+  - m_Id: 9164087498276864
+    m_Localized: Detailed History
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9164087531831296
+    m_Localized: Move Player
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

@@ -114,6 +114,14 @@ MonoBehaviour:
     m_Localized: "Pr\xE4sentation"
     m_Metadata:
       m_Items: []
+  - m_Id: 9164087498276864
+    m_Localized: Detaillierte Geschichte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9164087531831296
+    m_Localized: Spieler bewegen
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
